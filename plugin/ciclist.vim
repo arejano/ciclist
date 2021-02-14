@@ -1,1 +1,1 @@
-echo 'ciclist-hass been sourced'
+echo "Ciclist, plugin teste is on the way"
